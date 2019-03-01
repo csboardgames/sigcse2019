@@ -8,8 +8,8 @@ description: Poster for SIGCSE 2019
 
 Thank you for visiting our website! Here are the materials that we presented at SIGCSE 2019 in Minneapolis, MN.
 
-- [Handout](https://github.com/csboardgames/sigcse2019/blob/master/SIGCSE%20Handout%203.pdf)
-- Poster
+- [Handout](https://github.com/csboardgames/sigcse2019/raw/master/SIGCSE%20Handout%203.pdf)
+- [Poster](https://github.com/csboardgames/sigcse2019/raw/master/SIGCSE%20poster%20v2.pdf)
 
 Authors:
 - Caroline Hardin, caroline.hardin@wisc.edu
