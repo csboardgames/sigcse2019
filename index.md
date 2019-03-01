@@ -6,4 +6,7 @@ description: Poster for SIGCSE 2019
 
 # Questioning the Board in Computer Science Education Board Games
 
-SIGCSE 2019 poster will be available here.
+Thank you for visiting our website!
+
+- [Handout](https://github.com/csboardgames/sigcse2019/blob/master/SIGCSE%20Handout%203.pdf)
+- Poster
